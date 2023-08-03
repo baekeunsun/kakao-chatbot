@@ -11,8 +11,4 @@ assignees: ''
 - [x] todo
 
 —
-### DONE
-- [x] hi im eunsun
-
-—
 ### ISSUE

@@ -8,9 +8,6 @@ assignees: ''
 ---
 
 ### TODO
-
-—
-### DONE
 - [x] hi im eunsun
 
 —
